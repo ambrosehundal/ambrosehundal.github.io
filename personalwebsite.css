@@ -1,6 +1,13 @@
 .first{
     background-color: black;
+    margin-bottom: auto;
+    margin-left: 40px;
+    padding-bottom: 300px;
+    
 }
 .second{
     background-color: beige;
+    margin-bottom: auto;
+    margin-left: 40px;
+    padding-bottom: 300px;
 }
