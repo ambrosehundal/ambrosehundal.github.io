@@ -1,3 +1,59 @@
+.info-heading{
+    margin-right: 100px;
+    text-align: justify
+}
+
+.summary1{
+    text-align:center;
+}
+.a-picture{
+    margin-left:350px;
+    padding-bottom:30px;
+    
+}
+
+
+.aesthetic{
+    
+    font-size:36px;
+}
+
+.snap-description{
+    color:white;
+    font-family:Montserrat;
+    font-size:18px;
+    text-align: center
+}
+
+h3{
+    text-align: center;
+    font-family:Montserrat;
+    font-size:36px;
+    
+}
+.panel panel-default{
+    
+}
+
+.online-scout{
+    padding-bottom: 100px;
+}
+
+.snap{
+    color:white;
+    font-family:Raleway;
+    font-size:36px;
+    margin-left: 250px;
+    
+    
+}
+
+.snapchat{
+    margin-left: 200px;
+    padding-top: 0px;
+}
+
+
 li{
     border-style:inherit;
     border-bottom-color: black;
@@ -12,9 +68,12 @@ li{
     background-color: grey;
     margin-left: 390px;
     margin-right: 190px;
-    padding-bottom: 300px;
+    padding-bottom: 00px;
     text-align: center;
-    
+    float:right;
+    font-family:Lato;
+        
+    font-size:24px;
      
         
 }
@@ -62,12 +121,10 @@ h2{
 
 .binoculars{
     
-           
- 
-
 
 height:200px;
 width:200px; 
+margin-left:450px;    
  
     
         
@@ -117,12 +174,14 @@ width:200px;
     background-blend-mode: color-burn
     margin-bottom: auto;
     
-    padding-bottom: 300px;
+    padding-bottom: 100px;
     
 }
 .second{
-    background-color: whitesmoke;
-    padding-bottom: 300px;
+    background-color:whitesmoke;
+    padding-bottom: 30px;
+    font-family:Bitter;
+    
 }
 
 .dropdown {
