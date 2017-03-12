@@ -1,7 +1,7 @@
 span{
 	font-size: 20px;
 	color:black;
-	font-family: Raleway;
+	font-family: 'Raleway';
 }
 
 
@@ -28,14 +28,14 @@ span{
 
 .snap-description{
     color:white;
-    font-family:Montserrat;
+    font-family:'Montserrat';
     font-size:18px;
     text-align: center
 }
 
 h3{
     text-align: center;
-    font-family:Montserrat;
+    font-family:'Montserrat';
     font-size:36px;
     
 }
@@ -49,7 +49,7 @@ h3{
 
 .snap{
     color:white;
-    font-family:Raleway;
+    font-family:'Raleway';
     font-size:36px;
     margin-left: 250px;
     
@@ -117,7 +117,7 @@ li{
 
 .iconDetails {
  margin-left:2%;
-float: 
+
 height:40px;
 width:40px; 
 } 
