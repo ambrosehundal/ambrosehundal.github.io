@@ -284,5 +284,22 @@ margin-left:450px;
     transition: all ease .5s;
 }
 
+<!--code to make it responsive to all screens-->
+@media screen and (max-width:100%){
+ .golden-state{
+	 max-width:100%;
+	}
+	
+}
+
+
+
+
+
+
+
+
+
+
 
 
