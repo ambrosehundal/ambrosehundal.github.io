@@ -46,9 +46,10 @@
         </div></div></a></li>
     </ul>
   </div>
+	<div class="golden-state"></div>
 </nav>
     </div>
-        <div class="golden-state"><img src="IMG_2712.JPG" class="golden-pic"></div>        
+        
       <div class="intro">
         <h1>Hi! I am Ambrose Hundal</h1>
         <p>I am a sophomore pursuing a bachelors in Computer Science at University of California Santa Cruz. I am very passionate about software development and the ability of web applications to inspire change and growth. </p>
@@ -122,7 +123,20 @@ the potential threat of getting screenshot. This project was completed using HTM
 	            <p>"Job's not finished, job finished?"- Kobe Bryant </p>
             
         </div>
-    
+	    <!--code for transparent bar -->
+	     <script>
+        $(document).ready(function() {
+	$(window).scroll(function() {
+  	if($(document).scrollTop() > 10) {
+    	$('.container-fluid').addClass('shrink');
+    }
+    else {
+    $('.container-fluid').removeClass('shrink');
+    }
+  });
+});
+        
+        </script>    
     
     </body>
 
