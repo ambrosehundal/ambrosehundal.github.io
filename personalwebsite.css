@@ -45,7 +45,7 @@ span{
 
 
 .aesthetic{
-    margin-left:43%;
+    margin-left:41%;
     font-size:36px;
 }
 
@@ -285,20 +285,14 @@ margin-left:450px;
 }
 
 <!--code to make it responsive to all screens-->
-@media screen and (max-width:100%){
- .golden-state{
-	 max-width:100%;
+
+@viewport{
+    zoom:1.0;
+    width: extend-to-zoom;
+
 }
- .first{
-	 max-width:100%;
-}
- .second{
-	 max-width:100%;
-}
-	
-	
-	
-}
+
+
 
 
 
