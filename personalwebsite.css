@@ -288,7 +288,15 @@ margin-left:450px;
 @media screen and (max-width:100%){
  .golden-state{
 	 max-width:100%;
-	}
+}
+ .first{
+	 max-width:100%;
+}
+ .second{
+	 max-width:100%;
+}
+	
+	
 	
 }
 
